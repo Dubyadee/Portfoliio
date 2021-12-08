@@ -24,3 +24,5 @@ This one was more akin to a flat out improvement from dissatisfaction. I changed
 TWITTER BOT:
 
 This is the least impactful change, but I think an overall improvement. I simply added around 30% more variables for permutation, expanding emojis and vocabulary. I also added mutiple copies of root phrases to change the probability of which ones appear, and then added some additional rare phrases to act as "easter eggs". I think that this  adds to the aesthetic theme of the profile and breaks up some of the monotony. There isn't a whole lot to talk about here, it is just a simple expansion for the most part.
+
+[Here is the bot.](https://twitter.com/linkuistic)
